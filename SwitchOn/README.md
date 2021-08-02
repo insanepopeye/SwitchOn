@@ -1,5 +1,4 @@
-# SwitchOn
-# Technology Stack Used
+# SwitchOn Technology Stack Used for Assignment
 
 # MongoDb 4.4.7
 
